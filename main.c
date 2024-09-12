@@ -12,7 +12,7 @@ int main() {
     int choice;
 
     while (1) {
-        printf("\nE-commerce Backend\n");
+        printf("\nE-commerce \n");
         printf("1. Add Product\n");
         printf("2. List Products\n");
         printf("3. Add to Cart\n");
